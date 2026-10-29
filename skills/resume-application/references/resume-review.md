@@ -1,0 +1,29 @@
+# Resume tailoring and isolated review
+
+## Draft and verify
+
+Read the full job description, current applicant evidence and relevant constraints. Identify the main role deliverables, direct evidence, transferable experience and meaningful gaps, then choose a coherent narrative for the intended reader. Reorder and compress true experiences; make contributions, business context, difficulty and outcomes clear. Translate unexplained internal terms and acronyms into understandable language. Use strong verbs justified by actual responsibility. Distinguish personal and team work, intended and achieved outcomes, pilot and production, and the precise population and conditions of any metric. Never invent facts, qualifications, ownership or motivation; ask about material unknowns and omit nonessential ones.
+
+Respect explicitly locked wording and preserve user-modified and submitted files. Check official resume language and format requirements separately from job or interface language. Where unspecified, honor the user's choice or propose a language and label the requirement unverified; flag substantive conflicts. Use the user's chosen format, otherwise an appropriate readable design. Generate the requested editable and final formats with appropriate document tools, render each page, and check text, links and consistency between formats. Do not force a page count through illegibility.
+
+Before independent review, the primary agent alone checks every substantive claim against the evidence base: dates, titles, responsibilities, numerical scope, skills, project stage and factual boundaries. Resolve material conflicts or identify the draft as incomplete. Freeze a version and record its identifiers and hashes; changes require a new version and rechecking affected parts.
+
+## Three independent reviewers
+
+For every new or substantially revised resume, conduct three distinct reviews of the frozen version. The primary agent does not substitute its own self-review for independent feedback. Each reviewer returns observations only, never edits files, exchanges opinions with other reviewers, or delegates. Their task is first-reader evaluation, not verification against private records.
+
+1. **Expression and internal consistency:** sees only the current resume, applicable JD and neutral language requirements. Check clarity of contributions, dates and metrics as presented, unexplained terms, repetition, and visible evidence. A claim that cannot be verified from the resume is a reader question, not proof of falsity. Do not read the evidence base or judge hiring likelihood or layout.
+2. **Hiring manager:** sees only the current resume and JD, plus any neutral, non-applicant official employer background supplied by the primary agent. Evaluate fit, strongest visible evidence, main concerns and up to three prioritized improvements, distinguishing observation from inference. Do not search for the applicant or infer missing experience; disclose when judgment uses only the supplied material.
+3. **Layout:** sees only the resume files, rendered page images and neutral layout requirements; no JD or personal background beyond the resume. Inspect every page for hierarchy, readability, density, alignment, line breaks, pagination, clipping and consistency, identifying page or area. No visual pass without actually seeing the rendered images; no untested claims about ATS compatibility.
+
+## Required isolation
+
+Run each reviewer in a separate fresh session and separate temporary review package with no inherited conversation, memory, project rules, evidence base, prior drafts, prior review, or other reviewer's output. The primary agent supplies only the minimum inputs stated above, with no private context, author explanation or source paths. Disable network, connectors, tools and further agents unless strictly necessary for that reviewer. If file access is needed, enforce operating-system or tool permissions that allow only the reviewer's package and required runtime and deny the original workspace, user home, other review packages and private records. Before dispatch test both allowed reads and denial of known private materials and other review packages; record the configuration and results. No-history context alone is not permission isolation. Never copy credentials or private configuration into a review environment.
+
+If the environment cannot enforce or verify these restrictions, stop the affected independent review, preserve completed work and tell the user exactly what is unavailable. Do not use a shared-context agent, pretend isolation succeeded, or call the draft fully reviewed. Ask the user whether to accept a clearly labeled reduced review if they wish to proceed. Honor higher-priority tool and delegation restrictions.
+
+## Decisions, recheck and delivery
+
+Collect the three actual reports, each identifying version, inputs examined, limitations and numbered findings. Present the draft and complete feedback, including the primary agent's recommended choices and any conflicting recommendations. Wait for the user's confirmation of the version or revisions; don't silently apply review suggestions. Once authorized, make only the approved changes and do not ask again for the same approval. Recheck changed claims against the evidence base, repeat affected independent review using fresh isolated packages, and re-render pages when layout may change. New material tradeoffs outside the approved scope go back to the user. Preserve review records, version identity, decisions and the actual submitted version; don't apply old review results to changed content.
+
+Before delivery, verify role and version, language, file contents, formatting and the requested Word/PDF consistency. State actual checks and limitations, key positioning and outstanding questions. Drafting or review does not authorize uploading, contacting anyone or submission.
