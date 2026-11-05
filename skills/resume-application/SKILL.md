@@ -1,6 +1,6 @@
 ---
 name: resume-application
-description: Build an applicant's career evidence base, research target employers and roles, and tailor, independently review, and prepare resumes for specific applications. Use when asked to organize career materials, explore job opportunities, or prepare a job-specific resume; actual applications require explicit authorization.
+description: Build an applicant's career evidence base, identify target role families and employers, research opportunities, and tailor, independently review, and prepare resumes for specific applications. Use when asked to organize career materials, explore job opportunities, or prepare a job-specific resume; actual applications require explicit authorization.
 ---
 
 # Resume application
@@ -10,7 +10,7 @@ Help an applicant build a reliable evidence base and present their strongest rel
 ## Choose the relevant workflow
 
 - **Build or maintain a career evidence base:** read [references/career-evidence.md](references/career-evidence.md). Inventory and integrate the materials the user provides, preserve originals, distinguish confirmed facts from uncertainty, and invoke the required `grilling` skill to elicit missing details in topic-based rounds. Do not fabricate suggested answers to factual questions.
-- **Research employers or roles:** read [references/job-research.md](references/job-research.md). Use the user's goals and current evidence, verify official sources and actual job requirements, assess fit and availability separately, and maintain an existing tracker only as authorized.
+- **Locate target roles and employers, or research opportunities:** read [references/job-research.md](references/job-research.md). Derive and refine role and employer options from the user's strengths, goals, real JDs and feedback when direction is unclear. For chosen targets, verify official sources and actual job requirements, assess vertical experience and availability separately, and maintain an existing tracker only as authorized.
 - **Prepare or substantively revise a resume:** read [references/resume-review.md](references/resume-review.md). Map the job to evidence, tailor and render the draft, independently check facts, and run the three isolated reviews and the user-confirmation and recheck workflow described there. If required isolation is unavailable, do not claim an independent review or final completion.
 - **Submit an application:** only within explicit authorization and applicable tool rules. Recheck the live application requirements, position, actual attached files and populated answers; report completion only on observed confirmation. Preserve the exact submitted version and do not alter account-wide defaults or other applications without authorization.
 

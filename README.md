@@ -8,7 +8,7 @@ A reusable agent skill for building a career evidence base, researching employer
 
 - **Career evidence base:** Organizes user-provided past resumes, application materials and other evidence into a maintainable, source-aware profile while preserving originals and unresolved conflicts.
 - **Experience interview:** Uses the required `grilling` skill to uncover context, individual contributions, decisions and measurable outcomes. It does not suggest personal facts.
-- **Employer and job research:** Checks official sources, current availability and requirements; separates actual job fit from application status and unknowns.
+- **Target roles, employers and job research:** Derives role families and employer options from strengths and career goals, refines priorities through real JDs and user feedback, and checks official sources and availability. Assesses core business tasks and delivery depth, distinguishing relevant experience from transferable ability and experience gaps from presentation gaps.
 - **Resume tailoring:** Builds a role-specific narrative grounded in verified evidence, explains internal terminology and preserves the boundaries of claims and metrics.
 - **Three independent reviews:** Separately evaluates expression and consistency, hiring relevance, and rendered layout. The primary agent verifies facts and brings the findings to the user before implementing approved changes.
 - **Application checks:** With explicit authorization, checks the live role, selected attachments and populated answers. It reports submission only when confirmation is observed.
